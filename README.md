@@ -298,7 +298,8 @@ return 0;
 
 
 ## OUTPUT:
-![image](https://github.com/aryabaisakhiya/Cryptography---19CS412-classical-techqniques/assets/119393645/75bfaee8-552f-45da-af82-e9c6afb3497e)
+![image](https://github.com/aryabaisakhiya/Cryptography---19CS412-classical-techqniques/assets/119393645/80aea1e4-6e4e-4988-af3e-5275f627f02c)
+
 
 
 
